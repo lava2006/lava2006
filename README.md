@@ -22,17 +22,6 @@
 - 🧾 Presented paper at HITS Chennai
 - 🏸 Represented Pondicherry University in **national-level badminton**
 
-## 🌟 Key Projects
-### 🔗 Phishing Link Detector – Browser Extension
-Detects suspicious links in real-time with a user-verification option.
-- **Technologies**: HTML, CSS, JavaScript(Basics), Python Flask  
-- [GitHub Link](https://github.com/lava2006) *(repo link to be added)*
-
-### 🚦 Arduino Traffic Signal Simulator
-A functional traffic light system using Arduino Uno and LEDs.
-- **Technologies**: Arduino IDE, Embedded C  
-- [GitHub Link](https://github.com/lava2006) *(repo link to be added)*
-
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
