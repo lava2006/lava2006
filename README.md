@@ -1,4 +1,4 @@
-## Hi there 👋, Myself Lavanya
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Lavanya+%F0%9F%91%8B" />
@@ -9,7 +9,7 @@
 ## 🔭 What I'm Currently Working On
 - Building cloud-based applications using AWS (EC2, S3, IAM)Services.
 - Expanding my skills in data structures and algorithms
-- Learning cloud related tools and advanced Python
+- Learning cloud related tools and advanced Python and Java
 
 ## 🏅 Certifications and Achievements
 - 🥇 **NPTEL Cloud Computing** – Elite + Silver (IIT Kharagpur)
@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git & Github](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
